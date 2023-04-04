@@ -1,1 +1,1 @@
-# Lets learn git with hands-on practice Biswajit.
+# Lets learn git with hands-on practice by Biswajit Patnaik.
